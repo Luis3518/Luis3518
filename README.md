@@ -4,7 +4,6 @@
 
 - 👀 I’m interested in development and disruptive technologies.
 - 🌱 I’m currently learning information security and smart contract programming
-- 💞️ I’m looking to collaborate on radiola35 and lubrisys
 - 📫 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/
 
 <!---
