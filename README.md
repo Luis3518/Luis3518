@@ -2,10 +2,13 @@
 
 # Hi there, I'm [Luis!](https://www.linkedin.com/in/luis-rodriguez3518/) 👋
 
-- 👀 I’m interested in development and disruptive technologies.
+![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
+
+- 👀 I am interested in software development, science and disruptive technologies.
 - 🌱 I’m currently learning information security and smart contract programming
 - 📫 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/
 
+![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
 <!---
 Luis3518/Luis3518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
