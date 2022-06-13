@@ -7,7 +7,6 @@
 - 👀 I am interested in software development, science and disruptive technologies.
 - 🌱 I’m currently learning information security and smart contract programming
 - I am a professor of programming, systems administration and networks in the technical school N°35
-- 📻 I participate and am in charge of the radiola35 project
 - 📫 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/
 
 ![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
