@@ -1,4 +1,11 @@
-![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
+![10](- 👀 I'm interested in software development, science and disruptive technologies.
+- 🎓 Technical degree in Computer Science (ET35)
+- 👨‍🏫 Computer Science Professor (Consudec)
+- 🎓 Bachelor's degree in Information Systems (UP)
+- 🔒 Specialist in Computer Security (UTN)
+- 💼 Currently working at ET35 as ATTP and System Administrator
+- 💻 Freelance working on various projects
+- 📬 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
 
 # Hi there, I'm [Luis!](https://www.linkedin.com/in/luis-rodriguez3518/) 👋
 
