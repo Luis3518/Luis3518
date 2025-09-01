@@ -1,3 +1,5 @@
+# Hi there, I'm [Luis!](https://www.linkedin.com/in/luis-rodriguez3518/) 👋
+
 ![10](- 👀 I'm interested in software development, science and disruptive technologies.
 - 🎓 Technical degree in Computer Science (ET35)
 - 👨‍🏫 Computer Science Professor (Consudec)
@@ -7,15 +9,6 @@
 - 💻 Freelance working on various projects
 - 📬 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
 
-# Hi there, I'm [Luis!](https://www.linkedin.com/in/luis-rodriguez3518/) 👋
-
-![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
-
-- 👀 I'm interested in software development, science and disruptive technologies.
-- 🌱 I’m currently learning information security and data analyst
-- 🎒 I'm a student at the University of Palermo
-- 🏫 I'm a professor of programming, systems administration and networks in the technical school N°35
-- 📬 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/
 
 ![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
 <!---
