@@ -5,10 +5,8 @@
 - 🔒 Specialist in Computer Security (UTN)
 - 💼 Currently working at ET35 as ATTP and System Administrator
 - 💻 Freelance working on various projects
-- 📬 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
+- 📬 How to reach me https://www.linkedin.com/in/luis-rodriguez3518/
 
-
-![10](https://raw.githubusercontent.com/Luis3518/Luis3518/main/media/royal.png)
 <!---
 Luis3518/Luis3518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
