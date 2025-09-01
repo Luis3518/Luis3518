@@ -1,6 +1,4 @@
 # Hi there, I'm [Luis!](https://www.linkedin.com/in/luis-rodriguez3518/) 👋
-
-![10](- 👀 I'm interested in software development, science and disruptive technologies.
 - 🎓 Technical degree in Computer Science (ET35)
 - 👨‍🏫 Computer Science Professor (Consudec)
 - 🎓 Bachelor's degree in Information Systems (UP)
